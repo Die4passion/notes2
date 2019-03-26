@@ -3,15 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Some Notes's documentation!
+这只是一个小小的笔记记录,a little step to failure
 ======================================
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   hello/hello
+   hello
 
 Indices and tables
 ==================
