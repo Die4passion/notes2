@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-这只是一个小小的笔记记录,a little step to failure
+a little step to failure
 ======================================
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
-   hello
+   hello/hello
+   base/index
 
 Indices and tables
 ==================
