@@ -10,7 +10,7 @@ a little step to failure
    :maxdepth: 2
    :glob:
 
-   hello/hello
+   hello/index
    base/index
 
 Indices and tables
